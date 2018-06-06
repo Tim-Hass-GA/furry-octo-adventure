@@ -1,0 +1,23 @@
+{
+  "name": "unit_test",
+  "version": "1.0.0",
+  "description": "unit testing",
+  "main": "calc_order_total.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tim-Hass-GA/furry-octo-adventure.git"
+  },
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tim-Hass-GA/furry-octo-adventure/issues"
+  },
+  "homepage": "https://github.com/Tim-Hass-GA/furry-octo-adventure#readme",
+  "devDependencies": {
+    "jest": "^23.1.0"
+  }
+}
