@@ -1,5 +1,10 @@
 # UNIT TESTING
 
+Resource: FunFunFunction - mpj
+Unit testing in JavaScript Part 1 - Why unit testing?
+https://youtu.be/Eu35xM76kKY
+Thanks mpj...
+
 ## Tech Used
 Node, Javascript, Jest
 
