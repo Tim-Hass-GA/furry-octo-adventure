@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Tim-Hass-GA/furry-octo-adventure#readme",
   "devDependencies": {
-    "jest": "^23.1.0"
+    "jest": "^23.1.0",
+    "merge": ">=1.2.1"
   }
 }
